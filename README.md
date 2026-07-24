@@ -3,6 +3,10 @@
 > **Skills, Verified. Not Claimed.**
 > A dual-sided platform built for the **Nerds Hack Days Lucknow**, designed to bridge the gap between candidates and recruiters through AI-driven technical assessments and automated skill validation.
 
+### 🌐 Live Demo: [https://skillproof-frontend.vercel.app](https://skillproof-frontend-jljq.vercel.app/)
+
+---
+
 ## 📸 Platform Showcase
 
 ### 1. The Landing Page
@@ -84,7 +88,7 @@ This repository contains the frontend prototype designed for the online submissi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/skillproof-frontend.git
+   git clone https://github.com/Tjshar/skillproof-frontend.git
    cd skillproof-frontend
    ```
 
@@ -110,4 +114,4 @@ Since this is an online round, we invite the judges to test the following fully-
 4. **Recruiter Discovery:** Go back to the landing page and click `I'm a Recruiter`. Search the dashboard and click `View Profile` on any candidate to see the slide-out deep-dive statistics.
 
 ---
-*Proudly built over the weekend for Nerds Hack Days Lucknow.*
+*built over the weekend for Nerds Hack Days, Lucknow.*
