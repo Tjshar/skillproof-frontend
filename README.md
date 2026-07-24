@@ -1,4 +1,4 @@
-# 🚀 SkillProof
+# 🚀 SkillProof: An AI-Ready Career Operating System for Students and Recruiters
 
 > **Skills, Verified. Not Claimed.**
 > A dual-sided platform built for the **Nerds Hack Days Lucknow**, designed to bridge the gap between candidates and recruiters through AI-driven technical assessments and automated skill validation.
