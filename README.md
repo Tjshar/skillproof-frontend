@@ -3,6 +3,20 @@
 > **Skills, Verified. Not Claimed.**
 > A dual-sided platform built for the **Nerds Hack Days Lucknow**, designed to bridge the gap between candidates and recruiters through AI-driven technical assessments and automated skill validation.
 
+## 📸 Platform Showcase
+*(Add your screenshots here by taking them, saving them in a folder called `screenshots`, and replacing the paths below)*
+
+![Landing Page](./screenshots/landing.png)
+<br>
+
+![Student Skill Dashboard](./screenshots/dashboard.png)
+<br>
+
+![Live AI Interview IDE](./screenshots/interview.png)
+<br>
+
+![Recruiter Candidate Discovery](./screenshots/recruiter.png)
+
 ---
 
 ## 📖 The Problem
