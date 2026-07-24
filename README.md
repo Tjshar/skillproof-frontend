@@ -10,32 +10,38 @@
 
 ### 2. Student Skill Dashboard
 The centralized hub showing verified scores, skill breakdown, and upcoming interviews.
+
 ![Student Dashboard - Top](./screenshots/dashboard1.png)
 <br>
 ![Student Dashboard - Bottom](./screenshots/dashboard2.png)
 
 ### 3. Live AI Interview IDE
 An immersive testing environment with real-time code execution and mock test validation.
+
 ![Live AI Interview IDE](./screenshots/AIinterview.png)
 
 ### 4. Career Twin (AI Advisor)
 Context-aware chatbot providing personalized career roadmaps and readiness checks.
+
 ![Career Twin - Part 1](./screenshots/careerTwin.png)
 <br>
 ![Career Twin - Part 2](./screenshots/careerTwin2.png)
 
 ### 5. Smart Job Search
 Curated opportunities matching the candidate's verified skills, complete with match scores.
+
 ![Job Search - Part 1](./screenshots/jobSearch.png)
 <br>
 ![Job Search - Part 2](./screenshots/jobSearch2.png)
 
 ### 6. ATS Resume Polish
 Instant, actionable feedback to ensure your resume bypasses strict ATS filters.
+
 ![ATS Polish](./screenshots/ATSpolish.png)
 
 ### 7. Recruiter Candidate Discovery
 A powerful dashboard for recruiters featuring detailed, slide-out candidate profiles to instantly view GitHub stats and interview performance.
+
 ![Recruiter Dashboard - Candidate Grid](./screenshots/recruiter1.png)
 <br>
 ![Recruiter Dashboard - Candidate Deep Dive](./screenshots/recruiter2.png)
