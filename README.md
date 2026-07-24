@@ -3,7 +3,11 @@
 > **Skills, Verified. Not Claimed.**
 > A dual-sided platform built for the **Nerds Hack Days Lucknow**, designed to bridge the gap between candidates and recruiters through AI-driven technical assessments and automated skill validation.
 
-### 🌐 Live Demo: [https://skillproof-frontend.vercel.app](https://skillproof-frontend-jljq.vercel.app/)
+### 🌐 Live Demo: [https://skillproof-frontend.vercel.app](https://skillproof-frontend.vercel.app)
+
+> [!IMPORTANT]
+> **Hackathon Round 1 Prototype Notice:** 
+> This repository represents the UI/UX frontend prototype for the initial submission round and is currently utilizing mock data to demonstrate the seamless user flows. When we advance to the next round and receive the required API credits from the organizers, we will fully integrate our planned FastAPI backend, PostgreSQL database, and live OpenAI endpoints!
 
 ---
 
@@ -81,6 +85,17 @@ This repository contains the frontend prototype designed for the online submissi
 * **Build Tool:** CRA + Craco (for path aliases)
 
 *(Note: Data is currently mocked for the hackathon prototype to demonstrate the seamless UI/UX flow before integrating with the backend API).*
+
+---
+
+## 🚀 Future Roadmap & Architecture (Full-Stack)
+While this prototype focuses on the frontend user experience, we have architected the platform to smoothly transition into a robust full-stack application in the next phase:
+
+* **Backend API:** **FastAPI (Python)** for high-performance, asynchronous endpoints that handle AI processing effortlessly.
+* **Authentication:** Real **GitHub OAuth** integration to securely pull repositories and commit data.
+* **Database:** **PostgreSQL** (via SQLAlchemy) to store candidate profiles, recruiter accounts, and historical interview data.
+* **AI Engine:** Integration with **OpenAI / LangChain** to power the live, dynamic logic behind the Career Twin chatbot and technical interview scoring.
+* **ATS Parsing:** Python-based NLP (e.g., `PyPDF2` + `spaCy`) to extract deep context from uploaded resumes.
 
 ---
 
