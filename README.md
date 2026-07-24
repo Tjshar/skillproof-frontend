@@ -57,7 +57,15 @@ A powerful dashboard for recruiters featuring detailed, slide-out candidate prof
 ---
 
 ## 📖 The Problem
-In modern hiring, recruiters are flooded with resumes full of self-reported skills that are impossible to verify until late in the interview process. Meanwhile, talented students struggle to stand out in a sea of generic applications, often getting filtered out by ATS (Applicant Tracking Systems) before they ever get a chance to prove themselves.
+
+The current tech hiring process is fundamentally broken for both sides of the table:
+
+* **For Recruiters:** They are flooded with resumes full of self-reported, unverified skills. It is nearly impossible to tell who actually possesses the required technical abilities without conducting expensive and time-consuming manual interviews.
+* **For Students:** 
+  * **The Resume Black Hole:** Resumes are often unfairly rejected by automated ATS systems due to poor formatting or missing keywords, before a human ever sees them.
+  * **No Way to Prove Skills:** Students have no standardized way to practice or prove their actual coding abilities to recruiters *before* landing an interview.
+  * **Lack of Mentorship:** Freshers lack personalized guidance to know if their current skills are actually "industry-ready" for specific target companies.
+  * **Irrelevant Job Hunting:** Searching for jobs is overwhelming, and candidates waste time applying to roles that don't match their actual, verified skill level.
 
 ## 💡 Our Solution
 **SkillProof** is a complete Career OS that replaces self-reported claims with hard data. We empower students to build a verifiable profile of their skills, and we give recruiters a dashboard to instantly discover pre-vetted talent.
