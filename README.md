@@ -110,4 +110,4 @@ Since this is an online round, we invite the judges to test the following fully-
 4. **Recruiter Discovery:** Go back to the landing page and click `I'm a Recruiter`. Search the dashboard and click `View Profile` on any candidate to see the slide-out deep-dive statistics.
 
 ---
-*Built with ❤️ for Nerds Hack Days Lucknow*
+*Proudly built over the weekend for Nerds Hack Days Lucknow.*
