@@ -3,7 +3,7 @@
 > **Skills, Verified. Not Claimed.**
 > A dual-sided platform built for the **Nerds Hack Days Lucknow**, designed to bridge the gap between candidates and recruiters through AI-driven technical assessments and automated skill validation.
 
-### 🌐 Live Demo: [https://skillproof-frontend.vercel.app](https://skillproof-frontend.vercel.app)
+### 🌐 Live Demo: [https://skillproof-frontend.vercel.app](https://skillproof-frontend-nine.vercel.app/)
 
 > [!IMPORTANT]
 > **Hackathon Round 1 Prototype Notice:** 
